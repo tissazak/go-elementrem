@@ -41,5 +41,5 @@ var (
 	MainNetTronRecursive = big.NewInt(1900000) 
 
 	TestNetChainID = big.NewInt(70709) // Test net default chain ID
-	MainNetChainID = big.NewInt(73733) // main net default chain ID
+	MainNetChainID = big.NewInt(1989) // main net default chain ID
 )
