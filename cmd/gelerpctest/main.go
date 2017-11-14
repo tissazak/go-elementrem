@@ -30,7 +30,6 @@ import (
 	"github.com/tissazak/go-elementrem/logger/glog"
 	"github.com/tissazak/go-elementrem/node"
 	"github.com/tissazak/go-elementrem/params"
-	"github.com/tissazak/go-elementrem/tests"
 	whisper "github.com/tissazak/go-elementrem/whisper/whisperv2"
 )
 
