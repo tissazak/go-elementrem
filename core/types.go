@@ -19,9 +19,9 @@ package core
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/core/state"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/core/vm"
+	"github.com/tissazak/go-elementrem/core/state"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation.

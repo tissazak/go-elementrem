@@ -19,13 +19,13 @@ package core
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/core/state"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/core/vm"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/core/state"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/core/vm"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 var (
@@ -134,7 +134,7 @@ func ApplyTransaction(config *params.ChainConfig, bc *BlockChain, gp *GasPool, s
 func AccumulateRewards(statedb *state.StateDB, header *types.Header, uncles []*types.Header) {
 	var nx = header.Number 
 	if nx.Cmp(params.MainNetTronRecursive) <= 0 { 
-		BlockReward=big.NewInt(5e+18) 
+		BlockReward=big.NewInt(0) 
 			} else { 
 		BlockReward=big.NewInt(1e+18) 
 	} 

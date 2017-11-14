@@ -25,10 +25,10 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/swarm/storage"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/swarm/storage"
 )
 
 const maxParallelFiles = 5

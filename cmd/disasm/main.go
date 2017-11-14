@@ -24,7 +24,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/core/vm"
+	"github.com/tissazak/go-elementrem/core/vm"
 )
 
 func main() {

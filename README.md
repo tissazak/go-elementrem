@@ -1,6 +1,6 @@
 # Elementrem GO-lang
 
-### [Downalod lastest version(To build from source is unnecessary)](https://github.com/elementrem/go-elementrem/releases) 
+### [Downalod lastest version(To build from source is unnecessary)](https://github.com/tissazak/go-elementrem/releases) 
 ### [To build from source](go_elementrem_build.md)
 ***
 ### [Gele console command](gele_command_readme.md)

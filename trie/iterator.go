@@ -16,7 +16,7 @@
 
 package trie
 
-import "github.com/elementrem/go-elementrem/common"
+import "github.com/tissazak/go-elementrem/common"
 
 // Iterator is a key-value trie iterator that traverses a Trie.
 type Iterator struct {

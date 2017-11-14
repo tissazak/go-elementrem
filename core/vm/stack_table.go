@@ -3,7 +3,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 func makeStackFunc(pop, diff int) stackValidationFunc {

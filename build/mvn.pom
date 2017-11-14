@@ -11,7 +11,7 @@
 
   <name>Android Elementrem Client</name>
   <description>Android port of the go-elementrem libraries and node</description>
-  <url>https://github.com/elementrem/go-elementrem</url>
+  <url>https://github.com/tissazak/go-elementrem</url>
   <inceptionYear>2015</inceptionYear>
 
   <licenses>
@@ -48,10 +48,10 @@
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/elementrem/go-elementrem</url>
+    <url>https://github.com/tissazak/go-elementrem</url>
   </issueManagement>
 
   <scm>
-    <url>https://github.com/elementrem/go-elementrem</url>
+    <url>https://github.com/tissazak/go-elementrem</url>
   </scm>
 </project>

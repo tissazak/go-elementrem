@@ -26,8 +26,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/internal/jsre/deps"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/internal/jsre/deps"
 	"github.com/robertkrimen/otto"
 )
 

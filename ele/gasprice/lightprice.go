@@ -21,9 +21,9 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/internal/eleapi"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/internal/eleapi"
+	"github.com/tissazak/go-elementrem/rpc"
 	"golang.org/x/net/context"
 )
 

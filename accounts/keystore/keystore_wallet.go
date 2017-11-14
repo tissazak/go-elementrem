@@ -19,9 +19,9 @@ package keystore
 import (
 	"math/big"
 
-	elementrem "github.com/elementrem/go-elementrem"
-	"github.com/elementrem/go-elementrem/accounts"
-	"github.com/elementrem/go-elementrem/core/types"
+	elementrem "github.com/tissazak/go-elementrem"
+	"github.com/tissazak/go-elementrem/accounts"
+	"github.com/tissazak/go-elementrem/core/types"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

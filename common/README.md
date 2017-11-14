@@ -1,14 +1,14 @@
 # common
 
 [![Build
-Status](https://travis-ci.org/elementrem/go-elementrem.png?branch=master)](https://travis-ci.org/elementrem/go-elementrem)
+Status](https://travis-ci.org/tissazak/go-elementrem.png?branch=master)](https://travis-ci.org/tissazak/go-elementrem)
 
 The common package contains the elementrem utility library.
 
 # Installation
 
 As a subdirectory the main go-elementrem repository, you get it with
-`go get github.com/elementrem/go-elementrem`.
+`go get github.com/tissazak/go-elementrem`.
 
 # Usage
 

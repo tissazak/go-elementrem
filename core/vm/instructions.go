@@ -20,11 +20,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/common/math"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common/math"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 func opAdd(pc *uint64, env *EVM, contract *Contract, memory *Memory, stack *Stack) ([]byte, error) {

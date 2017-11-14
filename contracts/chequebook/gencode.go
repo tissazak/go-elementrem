@@ -25,11 +25,11 @@ import (
 	"io/ioutil"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/accounts/abi/bind"
-	"github.com/elementrem/go-elementrem/accounts/abi/bind/backends"
-	"github.com/elementrem/go-elementrem/contracts/chequebook/contract"
-	"github.com/elementrem/go-elementrem/core"
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/accounts/abi/bind"
+	"github.com/tissazak/go-elementrem/accounts/abi/bind/backends"
+	"github.com/tissazak/go-elementrem/contracts/chequebook/contract"
+	"github.com/tissazak/go-elementrem/core"
+	"github.com/tissazak/go-elementrem/crypto"
 )
 
 var (

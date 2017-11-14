@@ -21,7 +21,7 @@ package gele
 import (
 	"errors"
 
-	"github.com/elementrem/go-elementrem/p2p"
+	"github.com/tissazak/go-elementrem/p2p"
 )
 
 // NodeInfo represents pi short summary of the information known about the host.

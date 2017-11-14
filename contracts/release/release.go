@@ -24,16 +24,16 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elementrem/go-elementrem/accounts/abi/bind"
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/ele"
-	"github.com/elementrem/go-elementrem/internal/eleapi"
-	"github.com/elementrem/go-elementrem/les"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/node"
-	"github.com/elementrem/go-elementrem/p2p"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/accounts/abi/bind"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/ele"
+	"github.com/tissazak/go-elementrem/internal/eleapi"
+	"github.com/tissazak/go-elementrem/les"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/node"
+	"github.com/tissazak/go-elementrem/p2p"
+	"github.com/tissazak/go-elementrem/rpc"
 	"golang.org/x/net/context"
 )
 
@@ -141,7 +141,7 @@ func (r *ReleaseService) checker() {
 
 				warning := fmt.Sprintf("Client v%d.%d.%d-%x seems older than the latest upstream release v%d.%d.%d-%x",
 					r.config.Major, r.config.Minor, r.config.Patch, r.config.Commit[:4], version.Major, version.Minor, version.Patch, version.Commit[:4])
-				howtofix := fmt.Sprintf("Please check https://github.com/elementrem/go-elementrem/releases for new releases")
+				howtofix := fmt.Sprintf("Please check https://github.com/tissazak/go-elementrem/releases for new releases")
 				separator := strings.Repeat("-", len(warning))
 
 				glog.V(logger.Warn).Info(separator)

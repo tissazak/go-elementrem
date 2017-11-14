@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/crypto"
 )
 
 // Callable method given a `Name` and whether the method is a constant.

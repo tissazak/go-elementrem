@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/common/hexutil"
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common/hexutil"
+	"github.com/tissazak/go-elementrem/crypto"
 )
 
 // PublicWhisperAPI provides the whisper RPC service.

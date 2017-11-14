@@ -19,12 +19,12 @@ package params
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 var (
 	TestNetGenesisHash = common.HexToHash("") // Testnet genesis hash to enforce below configs on
-	MainNetGenesisHash = common.HexToHash("0xc7130c992fb03c628c86439f8e5d1facdbf48f3f3c115ffd99a0e3abefa1016f") // Mainnet genesis hash to enforce below configs on
+	MainNetGenesisHash = common.HexToHash("") // Mainnet genesis hash to enforce below configs on
 
 	TestNetHomesteadBlock = big.NewInt(0)       // Testnet homestead block
 	MainNetHomesteadBlock = big.NewInt(0) // Mainnet homestead block
@@ -33,7 +33,7 @@ var (
 	MainNetHomesteadGasRepriceBlock = big.NewInt(1900000) // Mainnet gas reprice block
 
 	TestNetHomesteadGasRepriceHash = common.HexToHash("") // Testnet gas reprice block hash (used by fast sync)
-	MainNetHomesteadGasRepriceHash = common.HexToHash("0xa5424a91123120af253eb00ef60da314294424a8466f6cf3ac687092a726995e") // Mainnet gas reprice block hash (used by fast sync)
+	MainNetHomesteadGasRepriceHash = common.HexToHash("0") // Mainnet gas reprice block hash (used by fast sync)
 
 	TestNetSpuriousDragon = big.NewInt(0)
 	MainNetSpuriousDragon = big.NewInt(1900000)

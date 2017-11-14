@@ -27,13 +27,13 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core/state"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/eledb"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core/state"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/eledb"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 // WriteGenesisBlock writes the genesis block to the database as block number 0

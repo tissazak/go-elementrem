@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/rlp"
 )
 
 var (

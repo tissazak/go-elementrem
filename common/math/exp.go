@@ -19,7 +19,7 @@ package math
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 // wordSize is the size number of bits in a big.Int Word.

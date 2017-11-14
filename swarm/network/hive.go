@@ -22,13 +22,13 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/p2p/discover"
-	"github.com/elementrem/go-elementrem/p2p/netutil"
-	"github.com/elementrem/go-elementrem/swarm/network/kademlia"
-	"github.com/elementrem/go-elementrem/swarm/storage"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/p2p/discover"
+	"github.com/tissazak/go-elementrem/p2p/netutil"
+	"github.com/tissazak/go-elementrem/swarm/network/kademlia"
+	"github.com/tissazak/go-elementrem/swarm/storage"
 )
 
 // Hive is the logistic manager of the swarm

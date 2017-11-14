@@ -25,9 +25,9 @@ import (
 	"sort"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/common/mclock"
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common/mclock"
+	"github.com/tissazak/go-elementrem/crypto"
 )
 
 const (

@@ -24,15 +24,15 @@ import (
 	"math/big"
 	"path/filepath"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/ele"
-	"github.com/elementrem/go-elementrem/eleclient"
-	"github.com/elementrem/go-elementrem/elestats"
-	"github.com/elementrem/go-elementrem/les"
-	"github.com/elementrem/go-elementrem/node"
-	"github.com/elementrem/go-elementrem/p2p/nat"
-	"github.com/elementrem/go-elementrem/params"
-	"github.com/elementrem/go-elementrem/whisper/whisperv2"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/ele"
+	"github.com/tissazak/go-elementrem/eleclient"
+	"github.com/tissazak/go-elementrem/elestats"
+	"github.com/tissazak/go-elementrem/les"
+	"github.com/tissazak/go-elementrem/node"
+	"github.com/tissazak/go-elementrem/p2p/nat"
+	"github.com/tissazak/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/whisper/whisperv2"
 )
 
 // NodeConfig represents the collection of configuration values to fine tune the Gele

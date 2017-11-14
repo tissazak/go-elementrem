@@ -22,7 +22,7 @@ import (
 	"os"
 	"unicode"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 type Storage map[common.Hash]common.Hash

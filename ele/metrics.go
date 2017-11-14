@@ -17,8 +17,8 @@
 package ele
 
 import (
-	"github.com/elementrem/go-elementrem/metrics"
-	"github.com/elementrem/go-elementrem/p2p"
+	"github.com/tissazak/go-elementrem/metrics"
+	"github.com/tissazak/go-elementrem/p2p"
 )
 
 var (

@@ -27,8 +27,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/crypto"
 )
 
 var (

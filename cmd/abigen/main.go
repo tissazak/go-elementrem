@@ -24,8 +24,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/accounts/abi/bind"
-	"github.com/elementrem/go-elementrem/common/compiler"
+	"github.com/tissazak/go-elementrem/accounts/abi/bind"
+	"github.com/tissazak/go-elementrem/common/compiler"
 )
 
 var (

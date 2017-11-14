@@ -2,12 +2,12 @@ Pod::Spec.new do |spec|
   spec.name         = 'Gele'
   spec.version      = '{{.Version}}'
   spec.license      = { :type => 'GNU Lesser General Public License, Version 3.0' }
-  spec.homepage     = 'https://github.com/elementrem/go-elementrem'
+  spec.homepage     = 'https://github.com/tissazak/go-elementrem'
   spec.authors      = { {{range .Contributors}}
 		'{{.Name}}' => '{{.Email}}',{{end}}
 	}
   spec.summary      = 'iOS Elementrem Client'
-  spec.source       = { :git => 'https://github.com/elementrem/go-elementrem.git', :commit => '{{.Commit}}' }
+  spec.source       = { :git => 'https://github.com/tissazak/go-elementrem.git', :commit => '{{.Commit}}' }
 
 	spec.platform = :ios
   spec.ios.deployment_target  = '9.0'

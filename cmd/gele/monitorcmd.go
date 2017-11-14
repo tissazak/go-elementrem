@@ -25,9 +25,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elementrem/go-elementrem/cmd/utils"
-	"github.com/elementrem/go-elementrem/node"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/cmd/utils"
+	"github.com/tissazak/go-elementrem/node"
+	"github.com/tissazak/go-elementrem/rpc"
 	"github.com/gizak/termui"
 	"gopkg.in/urfave/cli.v1"
 )

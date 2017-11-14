@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/rlp"
 )
 
 type DumpAccount struct {

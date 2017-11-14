@@ -24,11 +24,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/swarm/network"
-	"github.com/elementrem/go-elementrem/swarm/services/swap"
-	"github.com/elementrem/go-elementrem/swarm/storage"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/swarm/network"
+	"github.com/tissazak/go-elementrem/swarm/services/swap"
+	"github.com/tissazak/go-elementrem/swarm/storage"
 )
 
 const (

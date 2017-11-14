@@ -25,10 +25,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/crypto/ecies"
-	"github.com/elementrem/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/crypto/ecies"
+	"github.com/tissazak/go-elementrem/rlp"
 )
 
 // Envelope represents a clear-text data packet to transmit through the Whisper

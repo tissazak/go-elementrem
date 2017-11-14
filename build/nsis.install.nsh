@@ -3,9 +3,9 @@ InstallDir "$InstDir"
 OutFile "${OUTPUTFILE}" # set through command line arguments
 
 # Links for "Add/Remove Programs"
-!define HELPURL "https://github.com/elementrem/go-elementrem/issues"
-!define UPDATEURL "https://github.com/elementrem/go-elementrem/releases"
-!define ABOUTURL "https://github.com/elementrem/go-elementrem#elementrem-go"
+!define HELPURL "https://github.com/tissazak/go-elementrem/issues"
+!define UPDATEURL "https://github.com/tissazak/go-elementrem/releases"
+!define ABOUTURL "https://github.com/tissazak/go-elementrem#elementrem-go"
 !define /date NOW "%Y%m%d"
 
 PageEx license

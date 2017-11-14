@@ -22,7 +22,7 @@ package gele
 import (
 	"errors"
 
-	"github.com/elementrem/go-elementrem/p2p/discv5"
+	"github.com/tissazak/go-elementrem/p2p/discv5"
 )
 
 // Enode represents a host on the network.

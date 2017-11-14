@@ -6,10 +6,10 @@ package contract
 import (
 	"strings"
 
-	"github.com/elementrem/go-elementrem/accounts/abi"
-	"github.com/elementrem/go-elementrem/accounts/abi/bind"
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/accounts/abi"
+	"github.com/tissazak/go-elementrem/accounts/abi/bind"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core/types"
 )
 
 // ENSABI is the input ABI used to generate the binding from.

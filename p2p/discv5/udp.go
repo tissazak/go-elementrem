@@ -24,13 +24,13 @@ import (
 	"net"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/p2p/nat"
-	"github.com/elementrem/go-elementrem/p2p/netutil"
-	"github.com/elementrem/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/p2p/nat"
+	"github.com/tissazak/go-elementrem/p2p/netutil"
+	"github.com/tissazak/go-elementrem/rlp"
 )
 
 const Version = 4

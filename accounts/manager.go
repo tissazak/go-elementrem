@@ -21,7 +21,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/elementrem/go-elementrem/event"
+	"github.com/tissazak/go-elementrem/event"
 )
 
 // Manager is an overarching account manager that can communicate with various

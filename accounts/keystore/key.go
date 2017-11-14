@@ -29,10 +29,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elementrem/go-elementrem/accounts"
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/crypto/secp256k1"
+	"github.com/tissazak/go-elementrem/accounts"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/crypto/secp256k1"
 	"github.com/pborman/uuid"
 )
 

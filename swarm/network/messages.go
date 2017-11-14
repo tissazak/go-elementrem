@@ -21,11 +21,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/elementrem/go-elementrem/contracts/chequebook"
-	"github.com/elementrem/go-elementrem/p2p/discover"
-	"github.com/elementrem/go-elementrem/swarm/network/kademlia"
-	"github.com/elementrem/go-elementrem/swarm/services/swap"
-	"github.com/elementrem/go-elementrem/swarm/storage"
+	"github.com/tissazak/go-elementrem/contracts/chequebook"
+	"github.com/tissazak/go-elementrem/p2p/discover"
+	"github.com/tissazak/go-elementrem/swarm/network/kademlia"
+	"github.com/tissazak/go-elementrem/swarm/services/swap"
+	"github.com/tissazak/go-elementrem/swarm/storage"
 )
 
 /*

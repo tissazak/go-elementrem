@@ -22,11 +22,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common/mclock"
-	"github.com/elementrem/go-elementrem/eledb"
-	"github.com/elementrem/go-elementrem/light"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/common/mclock"
+	"github.com/tissazak/go-elementrem/eledb"
+	"github.com/tissazak/go-elementrem/light"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
 	"golang.org/x/net/context"
 )
 

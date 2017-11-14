@@ -23,8 +23,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/elementrem/go-elementrem/accounts"
-	"github.com/elementrem/go-elementrem/accounts/keystore"
+	"github.com/tissazak/go-elementrem/accounts"
+	"github.com/tissazak/go-elementrem/accounts/keystore"
 )
 
 const (

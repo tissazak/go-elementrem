@@ -19,8 +19,8 @@ package core
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core/types"
 )
 
 // TxPreEvent is posted when a transaction enters the transaction pool.

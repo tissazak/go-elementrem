@@ -5,8 +5,8 @@ Maintainer: {{.Author}}
 Build-Depends: debhelper (>= 8.0.0), golang-1.7
 Standards-Version: 3.9.5
 Homepage: https://elementrem.org
-Vcs-Git: git://github.com/elementrem/go-elementrem.git
-Vcs-Browser: https://github.com/elementrem/go-elementrem
+Vcs-Git: git://github.com/tissazak/go-elementrem.git
+Vcs-Browser: https://github.com/tissazak/go-elementrem
 
 Package: {{.Name}}
 Architecture: any

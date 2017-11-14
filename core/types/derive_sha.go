@@ -19,9 +19,9 @@ package types
 import (
 	"bytes"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/rlp"
-	"github.com/elementrem/go-elementrem/trie"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/trie"
 )
 
 type DerivableList interface {

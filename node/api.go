@@ -21,10 +21,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common/hexutil"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/p2p"
-	"github.com/elementrem/go-elementrem/p2p/discover"
+	"github.com/tissazak/go-elementrem/common/hexutil"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/p2p"
+	"github.com/tissazak/go-elementrem/p2p/discover"
 	"github.com/rcrowley/go-metrics"
 )
 

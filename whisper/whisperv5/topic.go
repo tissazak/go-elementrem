@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 // Topic represents a cryptographically secure, probabilistic partial

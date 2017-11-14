@@ -25,9 +25,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/params"
-	"github.com/elementrem/go-elementrem/tests"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/tests"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 // ContractRef is a reference to the contract's backing object

@@ -26,14 +26,14 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/elementrem/go-elementrem/accounts"
-	"github.com/elementrem/go-elementrem/eledb"
-	"github.com/elementrem/go-elementrem/event"
-	"github.com/elementrem/go-elementrem/internal/debug"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/p2p"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/accounts"
+	"github.com/tissazak/go-elementrem/eledb"
+	"github.com/tissazak/go-elementrem/event"
+	"github.com/tissazak/go-elementrem/internal/debug"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/p2p"
+	"github.com/tissazak/go-elementrem/rpc"
 	"github.com/syndtr/goleveldb/leveldb/storage"
 )
 

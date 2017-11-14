@@ -34,17 +34,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elementrem/go-elementrem/cmd/utils"
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/console"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/p2p"
-	"github.com/elementrem/go-elementrem/p2p/discover"
-	"github.com/elementrem/go-elementrem/p2p/nat"
-	"github.com/elementrem/go-elementrem/whisper/mailserver"
-	whisper "github.com/elementrem/go-elementrem/whisper/whisperv5"
+	"github.com/tissazak/go-elementrem/cmd/utils"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/console"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/p2p"
+	"github.com/tissazak/go-elementrem/p2p/discover"
+	"github.com/tissazak/go-elementrem/p2p/nat"
+	"github.com/tissazak/go-elementrem/whisper/mailserver"
+	whisper "github.com/tissazak/go-elementrem/whisper/whisperv5"
 	"golang.org/x/crypto/pbkdf2"
 )
 
@@ -87,7 +87,7 @@ var (
 	argPoW       = flag.Float64("pow", whisper.MinimumPoW, "PoW for normal messages in float format (e.g. 2.7)")
 	argServerPoW = flag.Float64("mspow", whisper.MinimumPoW, "PoW requirement for Mail Server request")
 
-	argIP     = flag.String("ip", "", "IP address and port of this node (e.g. 127.0.0.1:30707)")
+	argIP     = flag.String("ip", "", "IP address and port of this node (e.g. 127.0.0.1:30303)")
 	argSalt   = flag.String("salt", "", "salt (for topic and key derivation)")
 	argPub    = flag.String("pub", "", "public key for asymmetric encryption")
 	argDBPath = flag.String("dbpath", "", "path to the server's DB directory")

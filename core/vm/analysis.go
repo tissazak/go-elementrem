@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 var bigMaxUint64 = new(big.Int).SetUint64(^uint64(0))

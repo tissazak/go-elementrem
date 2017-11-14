@@ -26,12 +26,12 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/common/hexutil"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/eledb"
-	"github.com/elementrem/go-elementrem/event"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common/hexutil"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/eledb"
+	"github.com/tissazak/go-elementrem/event"
+	"github.com/tissazak/go-elementrem/rpc"
 )
 
 var (

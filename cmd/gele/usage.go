@@ -21,8 +21,8 @@ package main
 import (
 	"io"
 
-	"github.com/elementrem/go-elementrem/cmd/utils"
-	"github.com/elementrem/go-elementrem/internal/debug"
+	"github.com/tissazak/go-elementrem/cmd/utils"
+	"github.com/tissazak/go-elementrem/internal/debug"
 	"gopkg.in/urfave/cli.v1"
 )
 

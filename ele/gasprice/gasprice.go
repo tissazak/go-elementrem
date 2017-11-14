@@ -21,12 +21,12 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/elementrem/go-elementrem/core"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/eledb"
-	"github.com/elementrem/go-elementrem/event"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/core"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/eledb"
+	"github.com/tissazak/go-elementrem/event"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
 )
 
 const (

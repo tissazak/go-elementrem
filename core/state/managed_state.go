@@ -19,7 +19,7 @@ package state
 import (
 	"sync"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 type account struct {

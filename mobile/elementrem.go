@@ -22,8 +22,8 @@ import (
 	"errors"
 	"math/big"
 
-	elementrem "github.com/elementrem/go-elementrem"
-	"github.com/elementrem/go-elementrem/common"
+	elementrem "github.com/tissazak/go-elementrem"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 // Subscription represents an event subscription where events are

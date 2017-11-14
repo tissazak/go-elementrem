@@ -25,7 +25,7 @@ package usbwallet
 import (
 	"errors"
 
-	"github.com/elementrem/go-elementrem/accounts"
+	"github.com/tissazak/go-elementrem/accounts"
 )
 
 // Here be dragons! There is no USB support on iOS.

@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common/mclock"
+	"github.com/tissazak/go-elementrem/common/mclock"
 )
 
 const rcConst = 1000000

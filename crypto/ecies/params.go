@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/elementrem/go-elementrem/crypto/secp256k1"
+	"github.com/tissazak/go-elementrem/crypto/secp256k1"
 )
 
 var (

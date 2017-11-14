@@ -19,9 +19,9 @@ package downloader
 import (
 	"sync"
 
-	elementrem "github.com/elementrem/go-elementrem"
-	"github.com/elementrem/go-elementrem/event"
-	"github.com/elementrem/go-elementrem/rpc"
+	elementrem "github.com/tissazak/go-elementrem"
+	"github.com/tissazak/go-elementrem/event"
+	"github.com/tissazak/go-elementrem/rpc"
 	"golang.org/x/net/context"
 )
 

@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/core/state"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/core/state"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 // ValidateINTERSTELLARHeaderExtraData validates the extra-data field of a block header to

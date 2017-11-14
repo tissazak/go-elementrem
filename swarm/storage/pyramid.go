@@ -24,7 +24,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 const (

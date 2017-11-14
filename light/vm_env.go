@@ -19,10 +19,10 @@ package light
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/core/vm"
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/core/vm"
+	"github.com/tissazak/go-elementrem/crypto"
 	"golang.org/x/net/context"
 )
 

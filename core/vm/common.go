@@ -20,8 +20,8 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 // Type is the VM type accepted by **NewVm**

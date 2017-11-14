@@ -24,8 +24,8 @@ import (
 	"io"
 	"sync"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/crypto/sha3"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/crypto/sha3"
 )
 
 type Hasher func() hash.Hash

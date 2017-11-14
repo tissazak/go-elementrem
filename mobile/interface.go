@@ -22,7 +22,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 // Interface represents a wrapped version of Go's interface{}, with the capacity

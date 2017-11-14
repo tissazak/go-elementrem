@@ -3,8 +3,8 @@ package vm
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 func memoryGasCost(mem *Memory, newMemSize *big.Int) *big.Int {

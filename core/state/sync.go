@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/rlp"
-	"github.com/elementrem/go-elementrem/trie"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/trie"
 )
 
 // StateSync is the main state synchronisation scheduler, which provides yet the

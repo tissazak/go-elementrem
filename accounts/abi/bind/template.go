@@ -16,7 +16,7 @@
 
 package bind
 
-import "github.com/elementrem/go-elementrem/accounts/abi"
+import "github.com/tissazak/go-elementrem/accounts/abi"
 
 // tmplData is the data structure required to fill the binding template.
 type tmplData struct {

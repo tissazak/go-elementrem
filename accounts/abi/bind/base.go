@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem"
-	"github.com/elementrem/go-elementrem/accounts/abi"
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem"
+	"github.com/tissazak/go-elementrem/accounts/abi"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/crypto"
 	"golang.org/x/net/context"
 )
 

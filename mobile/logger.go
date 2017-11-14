@@ -17,7 +17,7 @@
 package gele
 
 import (
-	"github.com/elementrem/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/logger/glog"
 )
 
 // SetVerbosity sets the global verbosity level (between 0 and 6 - see logger/verbosity.go).

@@ -36,15 +36,15 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/elementrem/go-elementrem/contracts/chequebook"
-	"github.com/elementrem/go-elementrem/errs"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/p2p"
-	"github.com/elementrem/go-elementrem/p2p/discover"
-	bzzswap "github.com/elementrem/go-elementrem/swarm/services/swap"
-	"github.com/elementrem/go-elementrem/swarm/services/swap/swap"
-	"github.com/elementrem/go-elementrem/swarm/storage"
+	"github.com/tissazak/go-elementrem/contracts/chequebook"
+	"github.com/tissazak/go-elementrem/errs"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/p2p"
+	"github.com/tissazak/go-elementrem/p2p/discover"
+	bzzswap "github.com/tissazak/go-elementrem/swarm/services/swap"
+	"github.com/tissazak/go-elementrem/swarm/services/swap/swap"
+	"github.com/tissazak/go-elementrem/swarm/storage"
 )
 
 const (

@@ -17,8 +17,8 @@
 package light
 
 import (
-	"github.com/elementrem/go-elementrem/eledb"
-	"github.com/elementrem/go-elementrem/trie"
+	"github.com/tissazak/go-elementrem/eledb"
+	"github.com/tissazak/go-elementrem/trie"
 	"golang.org/x/net/context"
 )
 

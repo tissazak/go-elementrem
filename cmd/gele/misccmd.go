@@ -26,9 +26,9 @@ import (
 	"strings"
 
 	"github.com/elementrem/elhash"
-	"github.com/elementrem/go-elementrem/cmd/utils"
-	"github.com/elementrem/go-elementrem/ele"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/cmd/utils"
+	"github.com/tissazak/go-elementrem/ele"
+	"github.com/tissazak/go-elementrem/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

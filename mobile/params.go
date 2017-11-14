@@ -19,9 +19,9 @@
 package gele
 
 import (
-	"github.com/elementrem/go-elementrem/core"
-	"github.com/elementrem/go-elementrem/p2p/discv5"
-	"github.com/elementrem/go-elementrem/params"
+	"github.com/tissazak/go-elementrem/core"
+	"github.com/tissazak/go-elementrem/p2p/discv5"
+	"github.com/tissazak/go-elementrem/params"
 )
 
 // MainnetChainConfig returns the chain configurations for the main Elementrem network.

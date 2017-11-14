@@ -19,7 +19,7 @@ package number
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 var tt256 = new(big.Int).Lsh(big.NewInt(1), 256)

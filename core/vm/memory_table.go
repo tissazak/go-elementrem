@@ -3,7 +3,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 func memorySha3(stack *Stack) *big.Int {

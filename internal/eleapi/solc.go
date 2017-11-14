@@ -19,8 +19,8 @@ package eleapi
 import (
 	"sync"
 
-	"github.com/elementrem/go-elementrem/common/compiler"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/common/compiler"
+	"github.com/tissazak/go-elementrem/rpc"
 )
 
 func makeCompilerAPIs(solcPath string) []rpc.API {

@@ -28,7 +28,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/elementrem/go-elementrem/accounts/abi"
+	"github.com/tissazak/go-elementrem/accounts/abi"
 	"golang.org/x/tools/imports"
 )
 

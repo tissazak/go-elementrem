@@ -21,7 +21,7 @@ package whisperv2
 import (
 	"crypto/ecdsa"
 
-	"github.com/elementrem/go-elementrem/event/filter"
+	"github.com/tissazak/go-elementrem/event/filter"
 )
 
 // Filter is used to subscribe to specific types of whisper messages.

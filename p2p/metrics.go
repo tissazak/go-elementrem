@@ -21,7 +21,7 @@ package p2p
 import (
 	"net"
 
-	"github.com/elementrem/go-elementrem/metrics"
+	"github.com/tissazak/go-elementrem/metrics"
 )
 
 var (

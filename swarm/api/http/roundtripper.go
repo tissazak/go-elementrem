@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
 )
 
 /*
@@ -30,8 +30,8 @@ see https://github.com/elementrem
 Usage:
 
 import (
- "github.com/elementrem/go-elementrem/common/httpclient"
- "github.com/elementrem/go-elementrem/swarm/api/http"
+ "github.com/tissazak/go-elementrem/common/httpclient"
+ "github.com/tissazak/go-elementrem/swarm/api/http"
 )
 client := httpclient.New()
 // for (private) swarm proxy running locally

@@ -19,9 +19,9 @@ package les
 import (
 	"time"
 
-	"github.com/elementrem/go-elementrem/core"
-	"github.com/elementrem/go-elementrem/ele/downloader"
-	"github.com/elementrem/go-elementrem/light"
+	"github.com/tissazak/go-elementrem/core"
+	"github.com/tissazak/go-elementrem/ele/downloader"
+	"github.com/tissazak/go-elementrem/light"
 	"golang.org/x/net/context"
 )
 

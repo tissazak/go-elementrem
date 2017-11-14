@@ -22,7 +22,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/elementrem/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/core/types"
 )
 
 // A Nonce is a 64-bit hash which proves (combined with the mix-hash) that

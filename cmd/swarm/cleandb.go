@@ -19,7 +19,7 @@ package main
 import (
 	"log"
 
-	"github.com/elementrem/go-elementrem/swarm/storage"
+	"github.com/tissazak/go-elementrem/swarm/storage"
 	"gopkg.in/urfave/cli.v1"
 )
 

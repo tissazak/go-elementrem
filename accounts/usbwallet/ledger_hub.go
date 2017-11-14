@@ -27,8 +27,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/elementrem/go-elementrem/accounts"
-	"github.com/elementrem/go-elementrem/event"
+	"github.com/tissazak/go-elementrem/accounts"
+	"github.com/tissazak/go-elementrem/event"
 	"github.com/karalabe/gousb/usb"
 )
 

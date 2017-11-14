@@ -27,9 +27,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/internal/jsre"
-	"github.com/elementrem/go-elementrem/internal/web3ext"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/internal/jsre"
+	"github.com/tissazak/go-elementrem/internal/web3ext"
+	"github.com/tissazak/go-elementrem/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 	"github.com/robertkrimen/otto"

@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/elementrem/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/core/types"
 )
 
 // nonceHeap is a heap.Interface implementation over 64bit unsigned integers for

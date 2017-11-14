@@ -21,8 +21,8 @@ package gele
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/eleclient"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/eleclient"
 )
 
 // ElementremClient provides access to the Elementrem APIs.

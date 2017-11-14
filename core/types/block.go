@@ -28,10 +28,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/common/hexutil"
-	"github.com/elementrem/go-elementrem/crypto/sha3"
-	"github.com/elementrem/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common/hexutil"
+	"github.com/tissazak/go-elementrem/crypto/sha3"
+	"github.com/tissazak/go-elementrem/rlp"
 )
 
 var (

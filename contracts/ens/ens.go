@@ -22,11 +22,11 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/accounts/abi/bind"
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/contracts/ens/contract"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/accounts/abi/bind"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/contracts/ens/contract"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/crypto"
 )
 
 // swarm domain name registry and resolver

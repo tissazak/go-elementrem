@@ -21,7 +21,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/elementrem/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/crypto"
 )
 
 const (

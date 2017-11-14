@@ -16,7 +16,7 @@
 
 package core
 
-import "github.com/elementrem/go-elementrem/common"
+import "github.com/tissazak/go-elementrem/common"
 
 // Set of manually tracked bad hashes (usually hard forks)
 var BadHashes = map[common.Hash]bool{

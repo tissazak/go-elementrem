@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 // TestNetINTERSTELLARleapBlock is the block number where the INTERSTELLAR hyperz-leap commences on

@@ -22,7 +22,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/elementrem/go-elementrem/compression/rle"
+	"github.com/tissazak/go-elementrem/compression/rle"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/iterator"
 	"github.com/syndtr/goleveldb/leveldb/opt"

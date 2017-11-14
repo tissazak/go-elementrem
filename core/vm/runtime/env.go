@@ -19,10 +19,10 @@ package runtime
 import (
 	"math/big"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core"
-	"github.com/elementrem/go-elementrem/core/state"
-	"github.com/elementrem/go-elementrem/core/vm"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core"
+	"github.com/tissazak/go-elementrem/core/state"
+	"github.com/tissazak/go-elementrem/core/vm"
 )
 
 func NewEnv(cfg *Config, state *state.StateDB) *vm.EVM {

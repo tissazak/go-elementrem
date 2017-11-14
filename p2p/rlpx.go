@@ -34,12 +34,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/crypto/ecies"
-	"github.com/elementrem/go-elementrem/crypto/secp256k1"
-	"github.com/elementrem/go-elementrem/crypto/sha3"
-	"github.com/elementrem/go-elementrem/p2p/discover"
-	"github.com/elementrem/go-elementrem/rlp"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/crypto/ecies"
+	"github.com/tissazak/go-elementrem/crypto/secp256k1"
+	"github.com/tissazak/go-elementrem/crypto/sha3"
+	"github.com/tissazak/go-elementrem/p2p/discover"
+	"github.com/tissazak/go-elementrem/rlp"
 )
 
 const (

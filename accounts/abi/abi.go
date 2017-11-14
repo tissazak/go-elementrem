@@ -24,7 +24,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 )
 
 // The ABI holds information about a contract's context and available

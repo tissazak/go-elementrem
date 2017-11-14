@@ -19,7 +19,7 @@ package errs
 import (
 	"fmt"
 
-	"github.com/elementrem/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/logger/glog"
 )
 
 /*

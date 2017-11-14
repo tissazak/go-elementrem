@@ -20,13 +20,13 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/elementrem/go-elementrem/accounts"
-	"github.com/elementrem/go-elementrem/accounts/keystore"
-	"github.com/elementrem/go-elementrem/cmd/utils"
-	"github.com/elementrem/go-elementrem/console"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/logger"
-	"github.com/elementrem/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/accounts"
+	"github.com/tissazak/go-elementrem/accounts/keystore"
+	"github.com/tissazak/go-elementrem/cmd/utils"
+	"github.com/tissazak/go-elementrem/console"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/logger"
+	"github.com/tissazak/go-elementrem/logger/glog"
 	"gopkg.in/urfave/cli.v1"
 )
 

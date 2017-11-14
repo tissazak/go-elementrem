@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/elementrem/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/common"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

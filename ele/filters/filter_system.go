@@ -24,11 +24,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core"
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/event"
-	"github.com/elementrem/go-elementrem/rpc"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/event"
+	"github.com/tissazak/go-elementrem/rpc"
 	"golang.org/x/net/context"
 )
 

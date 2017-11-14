@@ -19,8 +19,8 @@ package core
 import (
 	"runtime"
 
-	"github.com/elementrem/go-elementrem/core/types"
-	"github.com/elementrem/go-elementrem/pow"
+	"github.com/tissazak/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/pow"
 )
 
 // nonceCheckResult contains the result of a nonce verification.

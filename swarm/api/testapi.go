@@ -17,7 +17,7 @@
 package api
 
 import (
-	"github.com/elementrem/go-elementrem/swarm/network"
+	"github.com/tissazak/go-elementrem/swarm/network"
 )
 
 type Control struct {

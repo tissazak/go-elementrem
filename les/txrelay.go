@@ -19,8 +19,8 @@ package les
 import (
 	"sync"
 
-	"github.com/elementrem/go-elementrem/common"
-	"github.com/elementrem/go-elementrem/core/types"
+	"github.com/tissazak/go-elementrem/common"
+	"github.com/tissazak/go-elementrem/core/types"
 )
 
 type ltrInfo struct {

@@ -23,13 +23,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/elementrem/go-elementrem/cmd/utils"
-	"github.com/elementrem/go-elementrem/crypto"
-	"github.com/elementrem/go-elementrem/logger/glog"
-	"github.com/elementrem/go-elementrem/p2p/discover"
-	"github.com/elementrem/go-elementrem/p2p/discv5"
-	"github.com/elementrem/go-elementrem/p2p/nat"
-	"github.com/elementrem/go-elementrem/p2p/netutil"
+	"github.com/tissazak/go-elementrem/cmd/utils"
+	"github.com/tissazak/go-elementrem/crypto"
+	"github.com/tissazak/go-elementrem/logger/glog"
+	"github.com/tissazak/go-elementrem/p2p/discover"
+	"github.com/tissazak/go-elementrem/p2p/discv5"
+	"github.com/tissazak/go-elementrem/p2p/nat"
+	"github.com/tissazak/go-elementrem/p2p/netutil"
 )
 
 func main() {
