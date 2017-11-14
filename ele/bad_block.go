@@ -32,7 +32,7 @@ import (
 
 const (
 	// The Elementrem main network genesis block.
-	defaultGenesisHash = ""
+	defaultGenesisHash = "78dec18c6d7da925bbe773c315653cdc70f6444ed6c1de9ac30bdb36cff74c3b"
 	badBlocksURL       = ""
 )
 
